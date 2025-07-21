@@ -7,7 +7,7 @@ class OpenRouterService {
 
   constructor() {
     // In a real application, store this in environment variables
-    this.apiKey = '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';
+    this.apiKey = 'openrouter key';
     this.baseUrl = 'https://openrouter.ai/api/v1';
   }
 
