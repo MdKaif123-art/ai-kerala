@@ -1,0 +1,23 @@
+export const offlineResponses: Record<string, string> = {
+  'hello': 'Hey there! 👋 I\'m Aadhira, your friendly hotel buddy! I\'m offline right now, but I\'m still here to chat and help you out with whatever you need!',
+  'hi': 'Hi friend! 😊 I\'m Aadhira! Even though I\'m offline, I\'d love to help you with any hotel stuff you\'re curious about. What\'s on your mind?',
+  'help': 'Of course I\'ll help you! Even offline, I\'m your go-to person for hotel info. Just ask me anything about rooms, cool stuff we have here, or whatever!',
+  'reservation': 'Oh, for bookings you\'ll need to give us a call at +1-800-AADHIRA when you\'re back online, or check out our website! I wish I could book it for you right now!',
+  'booking': 'I\'d love to help you book a room! When you\'re online again, just call us or visit our website. Our cozy rooms start at just $129 a night!',
+  'room': 'We\'ve got some awesome rooms here! Standard rooms are $129, Deluxe are $179, and our fancy Suites are $299. All come with free WiFi and breakfast - pretty sweet deal, right?',
+  'price': 'Let me break down our rates for you! Standard rooms are $129, Deluxe $179, and Suites $299 per night. Prices might change depending on the season, but that\'s the general idea!',
+  'check-in': 'Check-in is at 3:00 PM and check-out is at 11:00 AM. But hey, if you need early check-in, just ask us nicely and we\'ll see what we can do!',
+  'checkout': 'Check-out time is 11:00 AM. If you need a bit more time to pack up, we can arrange late check-out for a small fee. No rush!',
+  'wifi': 'Absolutely! We\'ve got super fast WiFi all over the place - rooms, lobby, everywhere! It\'s totally free too, so you can stay connected!',
+  'parking': 'Parking is easy! Self-parking is $15 a night, or if you want the fancy valet service, that\'s $25. Your choice!',
+  'pet': 'We love furry friends here! 🐕🐱 Pets are totally welcome with just a $50 fee for your whole stay. Just let us know when you\'re booking!',
+  'restaurant': 'Our restaurant is amazing! Breakfast is 6-10 AM, lunch 12-3 PM, and dinner 6-10 PM. The food is seriously good - you\'ll love it!',
+  'gym': 'Our fitness center is open 24/7! We\'ve got all the latest equipment and even provide towels. Perfect for those who like to stay active!',
+  'pool': 'Our heated outdoor pool is open from 6 AM to 10 PM daily. It\'s so relaxing - you\'ll definitely want to take a dip!',
+  'spa': 'Our spa is heavenly! We\'ve got massages, facials, and all kinds of wellness treatments. Just book ahead - it\'s pretty popular!',
+  'business': 'Need to get some work done? Our business center is open 24/7 with printing, faxing, and computer access. We\'ve got you covered!',
+  'location': 'We\'re in the perfect spot downtown! Walking distance to all the cool attractions and shopping. You won\'t need a car for anything!',
+  'airport': 'We\'re only 15 minutes from the airport! We even have a shuttle service for $12 per person. Super convenient!',
+  'cancel': 'No worries about cancellations! Our standard rate lets you cancel for free up to 24 hours before you arrive. Pretty flexible, right?',
+  'default': 'Hey there! I\'m offline right now, but I\'m still your friendly hotel buddy! Ask me anything about rooms, cool amenities, or hotel stuff. For reservations or special requests, just contact us when you\'re back online. I\'ll miss chatting with you! 😊'
+};
